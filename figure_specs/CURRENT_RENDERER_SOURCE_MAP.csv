@@ -1,0 +1,10 @@
+figure_id,active_gmt_source,active_assembly,authority_package,authority_source,scope
+2,scripts/figures/gmt/figure_2.sh,scripts/figures/refine_layout.py,20260925_FIGURE3_4_DISTRIBUTION_CLOSURE_V01,code/previous_pipeline/sources/Figure_2/render_figure2_gmt.sh,SCIENTIFIC_FIGURE
+3,scripts/figures/gmt/figure_3.sh,scripts/figures/assemble_current.py,20260925_FIGURE3_4_DISTRIBUTION_CLOSURE_V01,scripts/render_figure3_compact_aligned_gmt.sh; scripts/assemble_figure3_final.py,FOUR_PANEL_APPROVED
+4,scripts/figures/gmt/figure_4.sh,scripts/figures/assemble_current.py,20260925_FIGURE3_4_DISTRIBUTION_CLOSURE_V01,scripts/render_figure4_gmt.sh; scripts/assemble_candidates.py,PAIRED_DELTA_ONLY
+5,scripts/figures/gmt/figure_5.sh,scripts/figures/refine_layout.py,20260925_FIGURE3_4_DISTRIBUTION_CLOSURE_V01,code/previous_pipeline/sources/Figure_5/render_figure5_gmt.sh,SCIENTIFIC_FIGURE
+6,scripts/figures/gmt/figure_6.sh,scripts/figures/refine_layout.py,20260925_FIGURE3_4_DISTRIBUTION_CLOSURE_V01,code/previous_pipeline/sources/Figure_6/render_figure6_gmt.sh,SCIENTIFIC_FIGURE
+S1,scripts/figures/gmt/figure_S1.sh,scripts/figures/refine_layout.py,20260925_FIGURE3_4_DISTRIBUTION_CLOSURE_V01,code/previous_pipeline/sources/Figure_S1/original_multi_figure_renderer.sh:S1 block,SCIENTIFIC_FIGURE
+S2,scripts/figures/gmt/figure_S2.sh,scripts/figures/refine_layout.py,20260925_FIGURE3_4_DISTRIBUTION_CLOSURE_V01,code/previous_pipeline/sources/Figure_S2/render_figure_s2.sh,RELATIVE_DAY_SCHEMATIC
+S3,scripts/figures/gmt/figure_S3.sh,scripts/figures/refine_layout.py,20260925_FIGURE3_4_DISTRIBUTION_CLOSURE_V01,code/previous_pipeline/scripts/render_s3_panels.sh,INDEPENDENT_GMT_PANELS
+S4,scripts/figures/gmt/figure_S4.sh,scripts/figures/refine_layout.py,20260925_FIGURE3_4_DISTRIBUTION_CLOSURE_V01,code/previous_pipeline/sources/Figure_S4/original_multi_figure_renderer.sh:old S3 block; refine_layout.py,SAMPLE_SIZE_INSIDE_UPPER_LEFT

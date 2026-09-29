@@ -1,0 +1,10 @@
+{
+  "release_id": "VRILE-Structure-v1.0.0",
+  "software_name": "VRILE-Structure",
+  "full_title": "VRILE-Structure: A Pan-Arctic Toolkit for Very Rapid Sea-Ice Loss Event Detection, Regional Analysis, and Spatial Decomposition",
+  "version": "1.0.0",
+  "manifest": "RELEASE_MANIFEST_RC4_8.csv",
+  "scientific_core_lineage": "RC4.7 frozen science",
+  "engineering_release_lineage": "RC4.8",
+  "date_released": "2026-09-30"
+}

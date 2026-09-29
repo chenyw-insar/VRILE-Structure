@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "figure_id": "F3",
+  "canvas_inches": [7.1, 10.2],
+  "regions": ["Beaufort Sea", "Laptev Sea", "Kara Sea", "Barents Sea", "Central Arctic"],
+  "region_keys": ["beaufort_sea", "laptev_sea", "kara_sea", "barents_sea", "central_arctic"],
+  "region_codes": [2, 5, 6, 7, 1],
+  "mechanisms": [
+    "sic_state",
+    "sic_change_5d",
+    "wind_speed_10m",
+    "zonal_wind_u10",
+    "meridional_wind_v10",
+    "mean_sea_level_pressure",
+    "cyclone_proximity",
+    "ice_edge_relative_wind"
+  ],
+  "family_labels": [
+    "SIC state",
+    "SIC change",
+    "Wind",
+    "Wind",
+    "Wind",
+    "Pressure",
+    "Cyclone proximity",
+    "Ice-edge-relative wind"
+  ],
+  "allowed_statuses": ["SUPPORTED_WITH_ROBUSTNESS", "SUPPORTED_PRIMARY_ONLY", "NOT_SUPPORTED"],
+  "expected_raw_evidence_rows": 770,
+  "expected_region_summary_rows": 40,
+  "expected_kara_registered_changes": 3,
+  "synthesis_statement": "The corrected analysis did not identify a single stable and spatially specific atmospheric fingerprint shared across Arctic study regions.",
+  "panel_contract": [
+    "A_NATIVE_NSIDC0780_FIVE_REGION_FRAMEWORK",
+    "B_COMPLETE_8_BY_5_FORMAL_STATUS_MATRIX_HORIZONTAL_LABELS",
+    "C_INTERPRETATION_LAYER_COMPLETE_REGISTERED_CASE_VIEWS",
+    "D_EXACT_BOUNDED_SYNTHESIS"
+  ],
+  "composite_stem": "F3_revised_draft",
+  "panel_stems": {
+    "A": "F3_panelA_regional_framework",
+    "B": "F3_panelB_formal_evidence",
+    "C": "F3_panelC_interpretation_layer",
+    "D": "F3_panelD_scientific_synthesis"
+  }
+}

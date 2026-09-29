@@ -1,0 +1,15 @@
+output_relative_path,producer_semantics,fresh_inputs,classification
+F1/F1_R3_annual_mean_context.csv,M025 prepare_f1 annual context,daily_sie,GENERATED_PRESENTATION_SOURCE
+F1/F1_R3_observed_window.csv,M025 prepare_f1 observed window,daily_sie,GENERATED_PRESENTATION_SOURCE
+F1/F1_R3_scale_payload.json,M025 prepare_f1 fixed scale payload,daily_sie,GENERATED_PRESENTATION_SOURCE
+F2/F2_R3_event_display.csv,M025 prepare_f2 event display,"M007 broad,severe,major; raw NSIDC mask",GENERATED_PRESENTATION_SOURCE
+F2/F2_R3_year_halfmonth_counts.csv,M025 prepare_f2 timing counts,"M007 broad,severe,major; raw NSIDC mask",GENERATED_PRESENTATION_SOURCE
+F3_F4/F3_revision_round3_formal_evidence_matrix.csv,M025 F3 formal 8-by-5 matrix,"M010 raw 770,M010 summary 40",GENERATED_PRESENTATION_SOURCE
+F3_F4/F3_revision_round3_interpretation_effect_rows.csv,M025 F3 interpretation rows,floor015 paired 770,GENERATED_PRESENTATION_SOURCE
+F3_F4/F3_revision_round3_kara_registered_changes.csv,Current registered Kara extraction with accepted floor015 status helper,"current M010 raw 770; current floor015 paired 770; static case keys/order/labels ONLY",GENERATED_PRESENTATION_SOURCE
+F3_F4/F4A_REPRESENTATIVE_COMPONENT_CELLS.csv,M026 representative-cell exporter,"M021 components,M021 loss field,raw NSIDC mask",GENERATED_PRESENTATION_SOURCE
+F3_F4/F4C_CORRESPONDENCE_DEFINITION_DATA.csv,M026 correspondence exporter,M023 crosstab,GENERATED_PRESENTATION_SOURCE
+F3_F4/F4S_ABSOLUTE_DOMAIN_CONTRAST_SOURCE_DATA.csv,M028 F4S absolute exporter,"M021 reverse summary,M023 opportunity metrics",GENERATED_PRESENTATION_SOURCE
+F3_F4/F4S_MULTIREGION_SOURCE_DATA.csv,M028 F4S multiregion exporter,M021 spatial composition metrics,GENERATED_PRESENTATION_SOURCE
+F4/F4B_POPULATION_SOURCE_DATA.csv,M026 population exporter,"M021 spatial composition metrics,fresh sensitivity matrix gate",GENERATED_PRESENTATION_SOURCE
+F4/F4D_NORMALIZED_SOURCE_DATA.csv,M026 normalized-domain exporter,M023 normalization and focal-strength tables,GENERATED_PRESENTATION_SOURCE

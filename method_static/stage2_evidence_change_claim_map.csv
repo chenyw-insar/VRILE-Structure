@@ -1,0 +1,4 @@
+change_id,change_class,region,diagnostic_type,variable,buffer,lag/control,claim / Results subsection,required factual action or proposed interpretive disposition,author_review_row_id
+KARA_location_buffer_era5_v10_buffer_100__,KARA_FLOOR015_SENSITIVITY,kara_sea,location_buffer,era5_v10_buffer,100,,Stage2 floor015 robustness / Kara sensitivity,INTERPRETIVE_CHOICE_RETAIN_WITH_CAVEAT_OR_REVISE,I003
+KARA_lead_lag_era5_u10_buffer__post-event_,KARA_FLOOR015_SENSITIVITY,kara_sea,lead_lag,era5_u10_buffer,,post-event,Stage2 floor015 robustness / Kara sensitivity,INTERPRETIVE_CHOICE_RETAIN_WITH_CAVEAT_OR_REVISE,I003
+KARA_wrong_region_era5_v10_buffer_100__beaufort_sea,KARA_FLOOR015_SENSITIVITY,kara_sea,wrong_region,era5_v10_buffer,100,beaufort_sea,Stage2 floor015 robustness / Kara sensitivity,INTERPRETIVE_CHOICE_RETAIN_WITH_CAVEAT_OR_REVISE,I003

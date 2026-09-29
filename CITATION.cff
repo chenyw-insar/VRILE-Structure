@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: >-
+  If you use VRILE-Structure in scientific work, please cite the software and
+  the associated paper once the paper becomes available.
+type: software
+title: "VRILE-Structure: A Pan-Arctic Toolkit for Very Rapid Sea-Ice Loss Event Detection, Regional Analysis, and Spatial Decomposition"
+version: "1.0.0"
+date-released: "2026-09-30"
+authors:
+  - family-names: Chen
+    given-names: Yaowen
+    email: chenyaowen@hhu.edu.cn
+    website: "https://github.com/chenyw-insar"
+license: MIT
+abstract: >-
+  A reproducible RAW-to-final workflow for very rapid sea-ice loss event
+  detection, regional analysis and spatial decomposition of pan-Arctic event
+  structure.
+references:
+  - type: article
+    authors:
+      - family-names: Cavallo
+        given-names: Steven M.
+      - family-names: Frank
+        given-names: Madeline C.
+      - family-names: Bitz
+        given-names: Cecilia M.
+    title: "Sea ice loss in association with Arctic cyclones"
+    journal: "Communications Earth & Environment"
+    year: 2025
+    volume: "6"
+    start: "44"
+    doi: "10.1038/s43247-025-02022-9"

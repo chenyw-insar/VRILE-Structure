@@ -1,0 +1,12 @@
+{
+  "contract": "vrile-current-scientific-figures",
+  "pymupdf_version": "1.28.2",
+  "default_environment": "external_minimal_venv",
+  "default_location": "${XDG_DATA_HOME:-$HOME/.local/share}/vrile/plotting-pymupdf-{pymupdf_version}",
+  "bootstrap_python": "python from the existing locked gmt Conda environment",
+  "python_version_policy": "recorded; PyMuPDF exact version is mandatory",
+  "authority_python": "3.13.13",
+  "authority_pymupdf": "1.28.2",
+  "scientific_environments_modified": false,
+  "automatic_dependency_installation": false
+}
