@@ -91,7 +91,9 @@ Loss Event Detection, Regional Analysis, and Spatial Decomposition* (Version
 
 Associated paper: The companion VRILE manuscript is currently in preparation.
 Please cite the published paper once bibliographic information becomes available.
-No software DOI or formal software repository URL is currently available.
+Software repository: <https://github.com/chenyw-insar/VRILE-Structure>
+
+No software DOI is currently assigned.
 
 ## Method lineage
 

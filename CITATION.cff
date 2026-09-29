@@ -6,6 +6,7 @@ type: software
 title: "VRILE-Structure: A Pan-Arctic Toolkit for Very Rapid Sea-Ice Loss Event Detection, Regional Analysis, and Spatial Decomposition"
 version: "1.0.0"
 date-released: "2026-09-30"
+repository-code: "https://github.com/chenyw-insar/VRILE-Structure"
 authors:
   - family-names: Chen
     given-names: Yaowen
